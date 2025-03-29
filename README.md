@@ -38,7 +38,7 @@ nexe triggerfinder.js -t windows-x64-18.0.0 -o TriggerFinder.exe
 🎯 **Pull request'ler** ve **geliştirme önerileri** her zaman kabul edilir!  
 🎯 **Pull requests** and **development suggestions** are always welcome!  
 
-📩 **Sorularınız mı var? / Have questions?** [Discord Sunucumuza Katıl / Join our Discord Server](#https://discord.gg/skytrigger)  
+📩 **Sorularınız mı var? / Have questions?** [Discord Sunucumuza Katıl / Join our Discord Server](https://discord.gg/skytrigger)  
 
 ---
 
