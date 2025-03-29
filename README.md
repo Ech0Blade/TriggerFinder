@@ -16,6 +16,8 @@
 
 ## 🛠 **Kurulum ve Kullanım / Installation & Usage**  
 
+### **1️ Gerekli Bağımlılıkları Yükleyin / Install Dependencies:**  
+  https://nodejs.org/
 ### **1️⃣ Gerekli Bağımlılıkları Yükleyin / Install Dependencies:**  
 ```sh
 npm install
