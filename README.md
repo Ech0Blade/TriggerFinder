@@ -33,9 +33,6 @@ node triggerfinder.js dump.txt
 nexe triggerfinder.js -t windows-x64-18.0.0 -o TriggerFinder.exe
 ```
 
-## 📷 **Ekran Görüntüsü / Screenshot**  
-*(Buraya bir örnek ekran görüntüsü ekleyebilirsin / You can add a sample screenshot here 📸)*  
-
 ## 🤝 **Katkıda Bulun / Contribute**  
 🎯 **Pull request'ler** ve **geliştirme önerileri** her zaman kabul edilir!  
 🎯 **Pull requests** and **development suggestions** are always welcome!  
