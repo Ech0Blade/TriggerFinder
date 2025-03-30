@@ -18,7 +18,7 @@
 
 ### **1️ Gerekli Bağımlılıkları Yükleyin / Install Dependencies:**  
   https://nodejs.org/
-```
+
 
 ## 🤝 **Katkıda Bulun / Contribute**  
 🎯 **Pull request'ler** ve **geliştirme önerileri** her zaman kabul edilir!  
