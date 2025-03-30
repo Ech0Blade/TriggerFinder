@@ -18,19 +18,6 @@
 
 ### **1️ Gerekli Bağımlılıkları Yükleyin / Install Dependencies:**  
   https://nodejs.org/
-### **1️⃣ Gerekli Bağımlılıkları Yükleyin / Install Dependencies:**  
-```sh
-npm install
-```
-
-### **2️⃣ TriggerFinder'ı Çalıştırın / Run TriggerFinder:**  
-```sh
-node triggerfinder.js dump.txt
-```
-
-### **3️⃣ Alternatif olarak .exe dosyası oluşturabilirsiniz / Alternatively, create an .exe file:**  
-```sh
-nexe triggerfinder.js -t windows-x64-18.0.0 -o TriggerFinder.exe
 ```
 
 ## 🤝 **Katkıda Bulun / Contribute**  
